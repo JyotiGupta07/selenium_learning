@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46052" started-at="2017-06-08T09:55:31Z" finished-at="2017-06-08T09:56:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46052" started-at="2017-06-08T09:55:31Z" finished-at="2017-06-08T09:56:17Z">
+      <class name="com.metacube.demoApp.NewPracticeSite">
+        <test-method status="PASS" signature="getURL()[pri:0, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="getURL" is-config="true" duration-ms="12386" started-at="2017-06-08T15:25:31Z" finished-at="2017-06-08T15:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method status="PASS" signature="newBrowserWindow()[pri:0, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="newBrowserWindow" duration-ms="15481" started-at="2017-06-08T15:25:44Z" finished-at="2017-06-08T15:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newBrowserWindow -->
+        <test-method status="PASS" signature="testTextArea()[pri:1, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="testTextArea" duration-ms="5302" started-at="2017-06-08T15:25:59Z" finished-at="2017-06-08T15:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTextArea -->
+        <test-method status="PASS" signature="testTextBox()[pri:2, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="testTextBox" duration-ms="2373" started-at="2017-06-08T15:26:05Z" finished-at="2017-06-08T15:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTextBox -->
+        <test-method status="PASS" signature="checkCheckbox()[pri:3, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="checkCheckbox" duration-ms="5163" started-at="2017-06-08T15:26:07Z" finished-at="2017-06-08T15:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCheckbox -->
+        <test-method status="PASS" signature="checkRadioButton()[pri:4, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="checkRadioButton" duration-ms="5314" started-at="2017-06-08T15:26:12Z" finished-at="2017-06-08T15:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRadioButton -->
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:com.metacube.demoApp.NewPracticeSite@19f99ea]" name="shutdown" is-config="true" duration-ms="64" started-at="2017-06-08T15:26:18Z" finished-at="2017-06-08T15:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.metacube.demoApp.NewPracticeSite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
